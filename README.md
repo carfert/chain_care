@@ -1,4 +1,4 @@
-# fichas_medicas
+# chain_care
 It is a simple app that stores medical people info registration and get some NEAR to Hospital NEAR Wallet.
 
 What this App do
