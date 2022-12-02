@@ -21,4 +21,6 @@ Front End
   2. login.html - Doctor logins to his NEAR wallet
   3. pacientes.html - Doctor adnins patients information
   
+Contract
 
+  Read de README.md file located on the contract folder.
